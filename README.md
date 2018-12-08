@@ -1,5 +1,3 @@
 # Proyecto-Grupal 
 
-[ Previsualizador | URL]
-[ - - - - - - - - | - -]
-[Rama Principal | https://rodrigoezequiel.github.io/Proyecto-Grupal/ ]
+[Previsualizar Pagina](https://rodrigoezequiel.github.io/Proyecto-Grupal/)
